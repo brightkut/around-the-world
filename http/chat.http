@@ -3,6 +3,6 @@ POST https://localhost:8080/ai
 Content-Type: application/json
 
 {
-  "input": "Hello"
+  "input": "Hello Who you are?"
 }
 ###
