@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa1bf726-64b1-4dde-bd63-c02c9e8c837a" name="Changes" comment="update directory">
+      <change beforePath="$PROJECT_DIR$/BE/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/http/chat.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/src/main/java/com/brightkut/aroundtheworld/AroundTheWorldApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/src/main/java/com/brightkut/aroundtheworld/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/src/main/java/com/brightkut/aroundtheworld/config/ChatClientConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/src/main/java/com/brightkut/aroundtheworld/constants/MessageConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BE/src/test/java/com/brightkut/aroundtheworld/AroundTheWorldApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;brightkut&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:brightkut/around-the-world.git&quot;,
+    &quot;accountId&quot;: &quot;57984869-2062-4465-858f-a6d9ef70d631&quot;
+  }
+}</component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" environment="test" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kzZGkprI1f8DCkomWLT2LEMwEd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.chat | #1.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "Spring Boot.AroundTheWorldApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/disornthitikornkovit/dev/IdeaProjects/around-the-world",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BE" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AroundTheWorldApplication">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="around-the-world" />
+      <working_directory value="$PROJECT_DIR$/BE" />
+      <go_parameters value="-i" />
+      <kind />
+      <directory value="$PROJECT_DIR$/BE" />
+      <filePath value="$PROJECT_DIR$/BE" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="around-the-world" />
+      <working_directory value="$PROJECT_DIR$/BE" />
+      <go_parameters value="-i" />
+      <kind />
+      <directory value="$PROJECT_DIR$/BE" />
+      <filePath value="$PROJECT_DIR$/BE" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chat | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/http/chat.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AroundTheWorldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="around-the-world" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.brightkut.aroundtheworld.AroundTheWorldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.chat | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa1bf726-64b1-4dde-bd63-c02c9e8c837a" name="Changes" comment="" />
+      <created>1724288273428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724288273428</updated>
+      <workItem from="1724288274545" duration="5386000" />
+      <workItem from="1724295162914" duration="650000" />
+    </task>
+    <task id="LOCAL-00001" summary="initialize project">
+      <option name="closed" value="true" />
+      <created>1724290460642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724290460642</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add README.md">
+      <option name="closed" value="true" />
+      <created>1724290585172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724290585172</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update directory">
+      <option name="closed" value="true" />
+      <created>1724295043638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724295043638</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialize project" />
+    <MESSAGE value="add README.md" />
+    <MESSAGE value="update directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="update directory" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

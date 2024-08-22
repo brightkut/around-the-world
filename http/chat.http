@@ -1,0 +1,8 @@
+###
+POST http://localhost:8089/ai
+Content-Type: application/json
+
+{
+  "input": "Hello Who you are?"
+}
+###
