@@ -22,7 +22,9 @@ public class FileService {
 
             FileUtil.saveFile(originalFileName, UPLOAD_DIR, file);
 
-            return "File uploaded successfully: " + originalFileName;
+            log.info("Uploaded file successfully for file name: {}", originalFileName);
+
+            return originalFileName;
         } catch (IOException e) {
             throw new RuntimeException("Failed to upload file: " + e.getMessage());
         }
