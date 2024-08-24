@@ -1,6 +1,7 @@
 package com.brightkut.aroundtheworld.controller;
 
 import com.brightkut.aroundtheworld.service.FileService;
+import com.brightkut.aroundtheworld.validation.ValidFile;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -18,7 +19,7 @@ public class FileController {
     }
 
     @PostMapping("/upload")
-    ResponseEntity<String> uploadFile(@RequestParam("file") MultipartFile file) {
+    ResponseEntity<String> uploadFile(@ValidFile @RequestParam("file") MultipartFile file) {
         return ResponseEntity.ok(fileService.upload(file));
     }
 }
