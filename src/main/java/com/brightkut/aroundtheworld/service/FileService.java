@@ -18,7 +18,7 @@ public class FileService {
     public String upload(MultipartFile file) {
         try {
             // Normalize the file name
-            String originalFileName = StringUtils.cleanPath(Objects.requireNonNull(file.getOriginalFilename()));
+            String originalFileName = StringUtils.cleanPath(Objects.requireNonNull(file.getOriginalFilename())).replace("_","-");
 
             FileUtil.saveFile(originalFileName, UPLOAD_DIR, file);
 

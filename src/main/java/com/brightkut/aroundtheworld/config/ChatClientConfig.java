@@ -26,7 +26,7 @@ public class ChatClientConfig {
 
     // Config chat client with the system message
     @Bean
-    ChatClient chatClient(ChatClient.Builder builder) {
+    ChatClient chatClient() {
         OpenAiApi openAiApi = new OpenAiApi(System.getenv("SPRING_AI_OPENAI_API_KEY"));
 
         OpenAiChatOptions openAiChatOptions = OpenAiChatOptions.builder()

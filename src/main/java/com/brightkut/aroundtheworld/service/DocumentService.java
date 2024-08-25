@@ -31,7 +31,7 @@ public class DocumentService {
         Resource resource = new ClassPathResource("data-set/"+originalFileName);
 
         if (fileType.equals("txt")) {
-            TextReader textReader = new TextReader(resource);
+            TextReader textReader = new TextReader(file.getResource());
             // add metadata
             textReader.getCustomMetadata().put("filename", originalFileName);
             log.info("Add metadata to document");
