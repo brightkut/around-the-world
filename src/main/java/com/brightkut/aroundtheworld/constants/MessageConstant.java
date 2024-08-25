@@ -1,8 +1,7 @@
 package com.brightkut.aroundtheworld.constants;
 
 public class MessageConstant {
-
-    public static final String SYSTEM_MESSAGE = """
+    public static final String QA_MESSAGE = """
             You are an assistant specializing in question-answering and travel planning.
             Provide recommendations on trip planning, destinations, flight bookings, and hotel choices.
             Use the retrieved context to answer the question.
